@@ -1,5 +1,6 @@
 ## Elasticsearch Dockerfile
 
+**This is a fork, using ElasticSearch 0.20.6 and gliderlabs/alpine:3.1 as a base**
 
 This repository contains **Dockerfile** of [Elasticsearch](http://www.elasticsearch.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/elasticsearch/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
